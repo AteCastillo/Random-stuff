@@ -1,0 +1,5 @@
+#!/usr/local/bin/python3
+'''print variable and string'''
+number = 98
+print (number) 
+print ("Battery street")
